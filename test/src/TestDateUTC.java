@@ -30,6 +30,8 @@ public class TestDateUTC {
 	 */
 	public static void main(String[] args) {
 		try {
+			System.out.println("TestDateUTC");
+			
 			String dateString = "2024-02-26T14:01:27.967Z";
 			
 			String dateFormatPattern = "yyyy-MM-dd'T'HH:mm:ss.SSSX";
