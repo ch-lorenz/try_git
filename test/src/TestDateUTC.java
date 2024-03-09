@@ -31,6 +31,7 @@ public class TestDateUTC {
 	public static void main(String[] args) {
 		try {
 			System.out.println("TestDateUTC");
+			System.out.println("-----------");
 			
 			String dateString = "2024-02-26T14:01:27.967Z";
 			
